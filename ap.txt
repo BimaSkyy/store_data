@@ -5,3 +5,11 @@ apikey: bmsky-image-to-video-H6F7VKPD95BLD32
 durasi: 30d
 expired: 30112026
 }
+
+{
+endpoint: image-to-video
+name_user: 085609631149
+apikey: bmsky-image-to-video-PBKZAPKMD9KW2F6
+durasi: 1d
+expired: 1112026
+}
