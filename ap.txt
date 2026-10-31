@@ -1,0 +1,7 @@
+{
+endpoint: image-to-video
+name_user: bima
+apikey: bmsky-image-to-video-H6F7VKPD95BLD32
+durasi: 30d
+expired: 30112026
+}
