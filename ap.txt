@@ -13,3 +13,11 @@ apikey: bmsky-text-to-image-perchance-Y397CHZKP7ZZA75
 durasi: 30d
 expired: 30112026
 }
+
+{
+endpoint: image-to-video
+name_user: test_user
+apikey: bmsky-image-to-video-34J7Y6FL4QC93ZM
+durasi: 1d
+expired: 02112026
+}
