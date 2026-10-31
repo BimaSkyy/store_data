@@ -7,9 +7,9 @@ expired: 30112026
 }
 
 {
-endpoint: image-to-video
-name_user: 085609631149
-apikey: bmsky-image-to-video-PBKZAPKMD9KW2F6
-durasi: 1d
-expired: 1112026
+endpoint: text-to-image-perchance
+name_user: test1
+apikey: bmsky-text-to-image-perchance-Y397CHZKP7ZZA75
+durasi: 30d
+expired: 30112026
 }
