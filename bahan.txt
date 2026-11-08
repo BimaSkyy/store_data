@@ -1,1 +1,34 @@
-#bahan
+{
+  "version": "1.0.0",
+  "game": "MLBB",
+  "updated_at": "2026-11-09",
+  "note": "Config dynamic offsets BmSky. Edit nilai di sini untuk update patch tanpa perlu compile ulang .so!",
+  "offsets": {
+    "Offset_BM_LocalPlayer": "0x48",
+    "Offset_BM_DicPlayerShow": "0x60",
+    "Offset_BM_DicMonsterShow": "0x68",
+    "Offset_BM_ListPlayers": "0x70",
+    "Offset_BM_ListMonsters": "0x78",
+    "Offset_Entity_AcId": "0x68",
+    "Offset_Entity_IsPlayer": "0x8b",
+    "Offset_Entity_IsBoss": "0x8e",
+    "Offset_Entity_IsMonster": "0x96",
+    "Offset_Entity_Death": "0xc5",
+    "Offset_Entity_CoolDownComp": "0xf8",
+    "Offset_Entity_Guid": "0x188",
+    "Offset_Entity_ID": "0x18c",
+    "Offset_Entity_Hp": "0x1a4",
+    "Offset_Entity_HpMax": "0x1a8",
+    "Offset_Entity_Destroy": "0x28a",
+    "Offset_Entity_CachePos": "0x28c",
+    "Offset_Entity_UnityPos": "0x298",
+    "Offset_Entity_SameCamp": "0x2a9",
+    "Offset_Entity_ObjPos": "0x308",
+    "Offset_Entity_CfgSkillList": "0x368",
+    "Offset_Player_HeroName": "0x8f0",
+    "Offset_Player_RankLevel": "0x92c",
+    "Offset_Player_SummonSkillId": "0x984",
+    "Offset_Player_AIState": "0xa54",
+    "Offset_CDComp_DicCD": "0x18"
+  }
+}
